@@ -1,6 +1,6 @@
 # Anime Favs - React Project with Jikan API v4
 
-![Anime Favs Logo](link_to_logo_image.png)
+![Anime Favs Logo](https://i.imgur.com/5vnDiNH.png)
 
 ## Description
 
